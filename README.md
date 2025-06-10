@@ -6,8 +6,6 @@
 
 An interactive visualization tool for extendible hashing, a dynamic hashing technique that allows efficient insertion and deletion of data while adapting the hash table size as needed.
 
-![Demo Screenshot](./screenshot.png) *(replace with actual screenshot)*
-
 ## Features
 
 - **Interactive Visualization**: Watch the hash table grow and split in real-time
