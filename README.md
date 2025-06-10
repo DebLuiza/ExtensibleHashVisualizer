@@ -31,4 +31,4 @@ When a bucket overflows:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/extendible-hashing-visualization.git
+   git clone https://github.com/DebLuiza/ExtensibleHashVisualizer.git
